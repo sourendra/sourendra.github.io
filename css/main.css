@@ -53,6 +53,16 @@ Primary use:
   border-radius: 5px;
 }
 
+.expand-input100 {
+  width: 100%;
+  max-width: calc(100% - 80px);
+  position: relative;
+  background-color: #e6e6e6;
+  height: 40px;
+  border: 0px solid transparent;
+  border-radius: 5px;
+}
+
 /*---------------------------------------------*/
 .input100 {
   display: block;
